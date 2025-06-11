@@ -13,3 +13,6 @@ Each environment should include the following variables:
 Test the APIs using URLs like: http://localhost:9000/HelloWorld?name=Meritxell or http://localhost:9001/HelloWorld?name=Meritxell
 Take screenshots showing the request and response from Postman using the correct environment.
 Export your Postman environments as JSON files and submit them along with the screenshots.
+
+## Links
+- https://www.youtube.com/watch?v=9I9U5-WUrDo&t=7s
